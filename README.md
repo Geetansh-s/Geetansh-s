@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Tech Freak working with advanced technologies  <br>👯 I’m looking to collaborate on standalone embedded solutions <br>🤝 I’m looking for potential clients needing freelancers and recruiters on the lookout for geeks<br>🌱 I’m currently learning Bluetooth low energy, Auracast, LC3 Audio, UWB RTLS, Mesh<br>
+🔭 Tech Freak working with advanced technologies  <br>👯 I’m looking to collaborate on standalone embedded solutions <br>🤝 I’m looking for potential clients needing freelancers and recruiters on the lookout for geeks<br>🌱 I’m currently learning Bluetooth low energy, LE Audio, UWB RTLS, AI on the edge<br>
 
 
 ## 🌐 Socials:
