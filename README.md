@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Tech Freak working with advanced technologies  <br>👯 I’m looking to collaborate on standalone embedded solutions <br>🤝 I’m looking for potential clients needing freelancers and recruiters on the lookout for geeks<br>🌱 I’m currently learning Bluetooth low energy, LE Audio, UWB RTLS, AI on the edge<br>
+🔭Full Stack Embedded software and Electronics engineer  <br>👯 Working experience on ARM Microcontrollers and ARM64 SoC's, Device drivers, Application Code, Yocto images <br>🤝 I also have woring experience working with Power conversion Circuits and RF circuits and still learning to bring about a full stack engineering expertise <br>🌱 I’m currently working with and learning about electronic warfare, Gallium Nitride and LDMOS based RF circuits, optical and acoustic detection based drone deterrance and AI-Enabled baseband signal processing <br>
 
 
 ## 🌐 Socials:
